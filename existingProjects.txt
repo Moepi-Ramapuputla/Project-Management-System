@@ -1,0 +1,3 @@
+Jerry House,389,House,3 Bean Street,333,450000,300000,2022-01-25,Song Happy,0897635142,songhappy@gmail.com,5 True Street,Joe South,0896352748,joesouth@gmail.com,2 Love Street,Jerry Tom,0897382736,jerrytom@gmail.com,8 Peace Street,Not Finalised
+Shiva Apartment,789,Apartment,10 Soul Street,676,87000,32000,2022-08-25,Brave Reed,0896574532,bravereed@gmail.com,7 Same Street,Will North,0894577676,willnorth@gmail.com,10 Slap Street,Shiva Krishna,0801234673,shivakrishna@gmail.com,10 Yang Street,Not Finalised
+Candace Flat,234,Flat,12 Sea Street,456,500000,250000,2023-01-24,Ferb May,0891726352,ferbmay@gmail.com,3 False Street, Perry Sue,0891726352,perrysue@gmail.com,7 Tree Street,Candace Moon,0896372516,candacemoon@gmail.com,9 Equal Street,Not Finalised

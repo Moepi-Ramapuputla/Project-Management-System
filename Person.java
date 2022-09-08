@@ -1,5 +1,8 @@
 package projectManagementSystem;
 
+/** 
+*Project represents all information for each person created 
+*/
 public class Person {
 
 	//Attribute
@@ -9,7 +12,9 @@ public class Person {
 	private String address ;
 
 	//Constructor 
-	
+	/** Constructor
+	*Constructs and initializes a Project 
+	*/
 	public Person ( String name, String phone, String email, String address) {
 		this.name = name;
 		this.phone = phone; 
@@ -53,15 +58,28 @@ public class Person {
 	}
 	
 	//Methods
-	
+	/**
+	*Prints out the all information for us to use to be able to add to string for existingProjects/completedProjects.txt
+	*/
 	public String toString() {
 		String objectString =
-				" Name:" + name +
-				"\n Phone:" + phone +
-				"\n Address:" + address +
-				"\n Email:" + email;
+				 name + "," +
+				 phone + "," +
+				 address + "," +
+				 email;
 		
 		return objectString;
 				
+	}
+	/**
+	*Prints out the all information in easy to read manner for user 
+	*/
+	public String printDetails() {
+		String objectDetails = 
+		" Name:" + name +
+		"\n Phone:" + phone +
+		"\n Address:" + address +
+		"\n Email:" + email;
+		return objectDetails;
 	}
 }
