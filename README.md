@@ -1,6 +1,6 @@
 # Project-Management-System
 ##what the project does
-Program that they can use to keep track of the many projects
+Program that they can use to keep track of the many projects using database
 ##why the project is useful
 Allows business to monitor the progress of each project in an organised manner
 ##who maintains and contributes to the project
